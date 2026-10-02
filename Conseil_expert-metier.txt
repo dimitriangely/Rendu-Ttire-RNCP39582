@@ -1,0 +1,43 @@
+Expert métier : Jeremy Einhorny
+
+Structure et Contenu du Document
+
+---
+Introduction (après le sommaire)
+Présentation personnelle : 2-3 phrases sur moi et mon parcours menant au projet.
+Contexte du projet : Décrire le cadre et les enjeux.
+
+---
+Règles de Rédaction
+Style :
+Utiliser "je" pour tout le document.
+Reprendre tous les titres du référentiel dans le corps du texte.
+Éviter les répétitions.
+
+Preuves et illustrations :
+Intégrer des captures d’écran, schémas, vidéos ou screens pour éviter les blocs de texte denses.
+Anonymiser les données et mentionner explicitement si certaines informations ne peuvent pas être partagées.
+
+Justifications :
+Expliquer pourquoi chaque choix a été fait, en s’appuyant sur des justificatifs concrets (ex : "J’ai choisi cette méthode parce que...").
+
+---
+Mise en Page
+Police : Arial, Times New Roman.
+Taille : 11
+Espacement : 1
+Annexes : Aucune limite de volume.
+
+Preuves à inclure :
+Écrits confirmant les compétences (ex : emails, validations).
+Captures d’écran avec légendes et, si possible, des tutoriels ou explications complémentaires.
+
+---
+Partie Plan d’Action
+Gantt : À inclure pour visualiser les étapes et les délais.
+Annexes : À pour objectif de prouver comment je suis arrivé à chaque résultat ou décision.
+
+---
+Table des Matières et Annexes
+Cocher les sections dans la table des matières pour une navigation claire.
+Titres des annexes : Mentionner la compétence ciblée dans chaque titre (ex : "Annexe 1 : Analyse de la demande – Compétence X").
